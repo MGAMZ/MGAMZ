@@ -1,12 +1,13 @@
-### Who Am I???
+## Who Am I
 
-Yiqin Zhang. Currently focusing on medical imaging and analysis, interested in various deep-learning-based method.
+Yiqin Zhang. Currently focusing on **1)** medical imaging and analysis and **2)** electrophysiology data system design. I am interested in various deep-learning-based method.
+
 My most esteemed project is [mgamdata](https://github.com/MGAMZ/mgam_datatoolkit), a collection of the vast majority of my work, which is continually evolving and being updated.
 
 ORCID: 0000-0003-2099-2687
 Email: 312065559@qq.com
 
-#### Major Works
+## Major Works
 
 1. [A Hybrid Model based on Deep Learning and Cross-attention for Short-term Wind Power Prediction](https://ieeexplore.ieee.org/document/9948810)
 2. [A novel ultra-short-term wind power prediction method based on XA mechanism](https://www.sciencedirect.com/science/article/pii/S0306261923012692)
