@@ -16,3 +16,4 @@ Email: 312065559@qq.com
 5. [Slice-Wise Knowledge Transfer for Auto Annotation on Serial Medical Imaging Using Optical-Flow-Based Extrapolation](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4927375)
 6. [Interpretable Auto Window Setting for Deep-Learning-Based CT Analysis](https://www.sciencedirect.com/science/article/pii/S0010482525013460)
 7. [Enhanced optic-flow extrapolation for Doppler radar nowcasting with Dynamic Weight Attention](https://www.sciencedirect.com/science/article/pii/S0957417424030355?via%3Dihub)
+8. [Spatial-Aware Self-Supervision for Medical 3D Imaging with Multi-Granularity Observable Tasks](https://arxiv.org/abs/2509.05967)
