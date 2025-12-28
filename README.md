@@ -2,7 +2,7 @@
 
 Yiqin Zhang. Currently focusing on **1)** medical imaging and analysis and **2)** electrophysiology data system design. I'm also interested in various deep-learning-based method.
 
-My most esteemed project is [mgam-ITKIT](https://github.com/MGAMZ/ITKIT), a collection of the vast majority of my work, which is continually evolving and updated.
+My most esteemed project is [ITKIT](https://github.com/MGAMZ/ITKIT), a collection of the vast majority of my work, which is continually evolving and updated.
 
 ORCID: [0000-0003-2099-2687](https://orcid.org/0000-0003-2099-2687)
 Email: 312065559@qq.com
